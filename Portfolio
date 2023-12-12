@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prabhakaran Ramalingam - Data Analyst</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Prabhakaran Ramalingam</h1>
+        <p>Data Analyst</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Welcome to my portfolio! I am a dedicated Data Analyst with a passion for extracting insights from data.
+            This is a brief introduction about my experience and skills in the field of data analysis.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <img src="images/casino_project.jpg" alt="Casino Resort Growth Analysis">
+            <h3>Casino Resort Growth Analysis</h3>
+            <p>
+                As part of my Data Analysis course, I conducted an in-depth analysis of the growth trends of a casino resort.
+                This project involved collecting and analyzing data related to visitor numbers, revenue, customer demographics,
+                and other key performance indicators to identify patterns and insights that contributed to the resort's growth.
+            </p>
+        </div>
+
+        <div
+class="project">
+            <img src="images/power_bi_dashboard.jpg" alt="Power BI Dashboard for Trend Analysis">
+            <h3>Power BI Dashboard for Trend Analysis</h3>
+            <p>
+                In my Data Visualization course, I created a comprehensive Power BI dashboard to analyze trends and gain insights
+                from complex datasets. The dashboard included interactive visualizations, trend charts, and key metrics,
+                providing a user-friendly interface to explore and understand the underlying data patterns.
+            </p>
+        </div>
+
+        <!-- Add more projects as needed -->
+
+    </section>
+
+    <footer>
+        <p>Contact: prabhakaran279899@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/prabhakaran-r-49b740291/" target="_blank">linkedin.com/in/prabhakaran-r-49b740291</a></p>
+    </footer>
+
+</body>
+</html>
